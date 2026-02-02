@@ -2,7 +2,7 @@
 
 ¡Bienvenido/a a mi primer repositorio! Este proyecto marca el inicio de mi formación como desarrolladora Full Stack. Aquí registro mi progreso y el dominio de las herramientas esenciales para la colaboración y el control de versiones.
 
-## 🛠️ Lo que aprendí en este módulo:
+Lo que aprendí en este módulo:
 
 En esta primera etapa, me enfoqué en el **Control de Versiones**, aprendiendo a gestionar el ciclo de vida de un proyecto de forma profesional:
 
@@ -10,14 +10,3 @@ En esta primera etapa, me enfoqué en el **Control de Versiones**, aprendiendo a
 - **Flujo de Trabajo Local:** Uso de comandos base como `git init`, `git add` y `git commit`.
 - **Conectividad Remota:** Sincronización con GitHub mediante `git remote` y gestión de repositorios.
 - **Resolución de Problemas:** Resolución práctica de conflictos de merge y manejo de ramas (branches).
-
-## 📚 Próximos Pasos:
-- [ ] Lógica de Programación con **Ruby**.
-- [ ] Estructuras de datos básicas.
-- [ ] Creación de mis primeros scripts automatizados.
-
----
-*Este repositorio es un "work in progress" y refleja mi evolución constante en el mundo del código.*
-
-**Conecta conmigo:**
-[Tu Nombre] - [Enlace a tu LinkedIn o red social]
